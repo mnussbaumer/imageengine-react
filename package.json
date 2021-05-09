@@ -1,0 +1,60 @@
+{
+  "_from": "@imageengine/react",
+  "_id": "@imageengine/react@0.9.1",
+  "_inBundle": false,
+  "_integrity": "sha512-AkVojOTpy/j8tEzMoB26gTnPkoOyjy9lxg9Qr4ClDsjGXVDMbTdikewRdyTlr3kC7meHbiVMN+r8c05rkBsj9g==",
+  "_location": "/@imageengine/react",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@imageengine/react",
+    "name": "@imageengine/react",
+    "escapedName": "@imageengine%2freact",
+    "scope": "@imageengine",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@imageengine/react/-/react-0.9.1.tgz",
+  "_shasum": "f14d6a857b134fbd50af66c36d37b8d4df8efa0a",
+  "_spec": "@imageengine/react",
+  "_where": "/home/work-base/code/imageengine",
+  "author": {
+    "name": "Pavel Yermolin | oatto.paul@gmail.com | https://github.com/Powell-v2"
+  },
+  "bugs": {
+    "url": "https://github.com/imgeng/imageengine-react/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "React components for seamless integration with ImageEngine",
+  "devDependencies": {
+    "@types/react": "^17.0.5",
+    "typescript": "^4.2.4"
+  },
+  "homepage": "https://github.com/imgeng/imageengine-react#readme",
+  "keywords": [
+    "react",
+    "image cdn"
+  ],
+  "license": "MIT",
+  "main": "build/index.js",
+  "name": "@imageengine/react",
+  "peerDependencies": {
+    "react": "^17.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imgeng/imageengine-react.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.9.1"
+}
