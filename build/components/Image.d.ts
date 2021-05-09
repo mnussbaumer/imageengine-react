@@ -9,8 +9,8 @@ export declare type TDirectives = {
     autoWidthWithFallback?: number;
     height?: number;
     compression?: number;
-    outputFormat?: "png" | "gif" | "jpg" | "bmp" | "webp" | "jpeg2000" | "svg" | "mp4" | "jxr" | "avif" | "";
-    fitMethod?: "stretch" | "box" | "letterbox" | "cropbox";
+    outputFormat?: "png" | "gif" | "jpg" | "bmp" | "webp" | "jp2" | "svg" | "mp4" | "jxr" | "avif" | "";
+    fitMethod?: "stretch" | "box" | "letterbox" | "cropbox" | "";
     noOptimization?: true;
     sharpness?: number;
     rotate?: number;
